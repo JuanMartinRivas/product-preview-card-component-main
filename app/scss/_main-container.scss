@@ -1,0 +1,59 @@
+.container {
+    width: 90%;
+    max-width: 325px;
+    margin: 0 auto;
+}
+
+.main-image {
+    width: 100%;
+}
+
+.product-type {
+    text-transform: uppercase;
+    letter-spacing: .25em;
+    margin: 1.75em 0 1em;
+}
+
+.product-name {
+    margin: 0;
+}
+
+.price-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    .product-price {
+        color: $dark-cyan;
+    }
+
+    .flex-ghost {
+        flex-grow: 0.75;
+    }
+
+    .original-price {
+        text-decoration: line-through;
+    }
+}
+
+button {
+    width: 100%;
+    background-color: $dark-cyan;
+    border: 0;
+    border-radius: 10px;
+    padding: 1em;
+    color: #FFF;
+    cursor: pointer;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    transition: 0.25s;
+
+    .cart-icon {
+        margin-right: .25em;
+    }
+
+    &:hover,&:focus{
+        background-color: darken($color: $dark-cyan, $amount: 5%);
+        color: darken($color: #FFF, $amount: 5%);
+    }
+}
