@@ -1,0 +1,23 @@
+*,
+*:before,
+*:after {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background-color: $cream;
+    font-size: .875rem;
+}
+
+main{
+    margin: 2em auto;
+    width: 95%;
+    background-color: #FFF;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+img{
+    width: 100%;
+}
