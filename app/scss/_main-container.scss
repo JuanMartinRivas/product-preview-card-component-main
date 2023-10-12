@@ -1,17 +1,36 @@
+.content{
+    @media (min-width:900px) {
+        padding-top: 2em;
+    }
+}
+
 .container {
     width: 90%;
     max-width: 325px;
     margin: 0 auto;
+
+    @media (min-width:900px) {
+        width: 75%;
+        max-width: 650px;
+    }
 }
 
 .main-image {
     width: 100%;
+
+    @media (min-width:900px) {
+        min-height: 100%;
+    }
 }
 
 .product-type {
     text-transform: uppercase;
     letter-spacing: .25em;
     margin: 1.75em 0 1em;
+
+    @media(min-width: 900px) {
+        margin: 0;
+    }
 }
 
 .product-name {
@@ -52,7 +71,8 @@ button {
         margin-right: .25em;
     }
 
-    &:hover,&:focus{
+    &:hover,
+    &:focus {
         background-color: darken($color: $dark-cyan, $amount: 5%);
         color: darken($color: #FFF, $amount: 5%);
     }
