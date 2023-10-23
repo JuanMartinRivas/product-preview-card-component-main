@@ -1,13 +1,15 @@
 {
   "name": "index",
   "source": "index.html",
+  "homepage": "https://juanmartinrivas.github.io/product-preview-card-component-main/",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "push-gh-pages": "push-dir --dir=dist --branch=gh-pages --cleanup --verbose"
+    "deploy": "gh-pages -d dist"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.10.0",
+    "gh-pages": "^6.0.0",
     "parcel": "^2.10.0"
   },
   "description": "This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects.",
