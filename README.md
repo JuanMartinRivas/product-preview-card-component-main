@@ -30,8 +30,8 @@ Users should be able to:
 ![Design preview for the Product preview card component coding challenge](./design/solution-screenshot.PNG)
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/product-preview-card-component-KuG6Sbs2eT)
+- Live Site URL: [Site](https://juanmartinrivas.github.io/product-preview-card-component-pages/)
 
 ## My process
 
