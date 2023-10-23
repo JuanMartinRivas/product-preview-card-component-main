@@ -1,6 +1,6 @@
-5929
-91/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/README.md1696445962605456300 0
-100/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/README-template.md1696445962605456300 0
+5930
+91/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/README.md1698067053742431100 0
+94/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/README-OG.md1696445962605456300 0
 99/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/package-lock.json1697116771292717900 0
 113/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/yallist/yallist.js1696769759423556100 0
 110/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/yallist/LICENSE1696769758890677700 0
@@ -511,8 +511,6 @@
 154/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/mdb_copy.11697116551523749200 0
 149/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/mdb.c1697116552289926500 0
 150/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/lmdb.h1697116562668641600 0
-167/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@swc/helpers/_/_class_check_private_static_field_descriptor/package.json1697116565705006000 0
-172/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/optimizer-svgo/node_modules/css-tree/lib/syntax/node/AtrulePrelude.js1696769765793700100 0
 149/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/core/test/fixtures/invalid-source-not-file/src1697116566836178900 1
 154/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/optimizer-svgo/node_modules/svgo/lib/svgo/config.js1696769773592089700 0
 126/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@swc/helpers/_/_read_only_error1697116571985439200 1
@@ -678,7 +676,7 @@
 151/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/dom-serializer/node_modules/entities/lib/decode.d.ts.map1696769767823668300 0
 126/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/css-tree/lib/syntax/node/Url.js1696769802745936100 0
 143/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@swc/helpers/cjs/_initializer_warning_helper.cjs1697116551657665300 0
-111/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/app/scss/_main-container.scss1696775516533224700 0
+111/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/app/scss/_main-container.scss1697121884752785000 0
 125/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@swc/helpers/cjs/_inherits.cjs1697116551639677600 0
 133/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@swc/helpers/cjs/_get_prototype_of.cjs1697116551608696100 0
 150/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@babel/highlight/node_modules/supports-color/browser.js1696769759423556100 0
@@ -1466,6 +1464,7 @@
 124/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/runtime-react-refresh1697116553664404600 1
 144/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/optimizer-svgo/node_modules/css-tree/dist1696769784559570400 1
 160/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/optimizer-svgo/node_modules/csso/lib/replace/Dimension.js1696769782501987800 0
+112/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/design/solution-screenshot.PNG1698065929169764800 0
 135/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/css-select/lib/pseudo-selectors/index.js1696769773560834600 0
 124/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/profiler/lib/Trace.js1697116554508508700 0
 122/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@swc/helpers/src/_throw.mjs1697116576714250400 0
@@ -1589,8 +1588,13 @@
 172/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/optimizer-svgo/node_modules/css-tree/lib/syntax/node/ClassSelector.js1696769773309620900 0
 162/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/optimizer-svgo/node_modules/css-tree/lib/syntax/node/CDC.js1696769770256322500 0
 176/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/optimizer-svgo/node_modules/css-tree/lib/syntax/node/AttributeSelector.js1696769768800868100 0
+172/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/optimizer-svgo/node_modules/css-tree/lib/syntax/node/AtrulePrelude.js1696769765793700100 0
+167/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@swc/helpers/_/_class_check_private_static_field_descriptor/package.json1697116565705006000 0
 138/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/workers/src/process/ProcessChild.js1697116552001455200 0
 165/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/optimizer-svgo/node_modules/css-tree/lib/syntax/node/Atrule.js1696769764482975500 0
+156/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/optimizer-htmlnano/node_modules/svgo/lib/css-tools.js1696769777816890300 0
+166/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/optimizer-svgo/node_modules/css-tree/lib/syntax/node/AnPlusB.js1696769762698682600 0
+129/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/css-tree/cjs/syntax/node/Block.cjs1696769768876448200 0
 128/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/utils/src/alternatives.js1697116551518750800 0
 134/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/caniuse-lite/data/features/webcodecs.js1697116583733276700 0
 119/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@babel/highlight/LICENSE1696769759070056500 0
@@ -1647,7 +1651,7 @@
 146/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@babel/helper-validator-identifier/lib/index.js.map1696769762577628600 0
 137/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/core/src/requests/TargetRequest.js1697116571341395200 0
 151/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/LICENSE1697116551294621400 0
-88/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/design1696445962621048800 1
+88/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/design1698065957795915300 1
 167/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/optimizer-svgo/node_modules/css-tree/lib/syntax/node/Function.js1696769787124666200 0
 164/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/optimizer-svgo/node_modules/css-tree/lib/syntax/pseudo/dir.js1696769786610799100 0
 179/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/lib/syntax/pseudo/nth-last-child.js1696769792853787700 0
@@ -1707,7 +1711,7 @@
 145/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/transformer-babel/lib/remapAstLocations.js1697116551737615800 0
 125/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/profiler/lib/Tracer.js1697116554581953600 0
 165/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/core/test/fixtures/invalid-target-source-not-file/package.json1697116572884907600 0
-94/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/package.json1697116770756459900 0
+94/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/package.json1698069907630949400 0
 152/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/runtime-js/lib/helpers/browser/import-polyfill.js1697116557736785700 0
 143/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@swc/helpers/_/_to_consumable_array/package.json1697116572875913300 0
 141/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/css-tree/cjs/syntax/node/MediaFeatureRange.cjs1696769788923796600 0
@@ -2139,7 +2143,7 @@
 145/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/css-select/node_modules/entities/lib/encode.js.map1696769782757455900 0
 143/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@swc/helpers/src/_class_apply_descriptor_set.mjs1697116574210926100 0
 131/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/package-manager/lib/index.js1697116555728020500 0
-109/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/dist/icon-cart.61127c2a.svg1697116793920364900 0
+109/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/dist/icon-cart.61127c2a.svg1698069911544037700 0
 123/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/commander/typings/index.d.ts1696769767942183200 0
 120/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/namer-default/src1697116557486547800 1
 124/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/cache/lib/IDBCache.js1697116557808376500 0
@@ -2159,7 +2163,7 @@
 116/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/domutils/lib/feeds.js1696769759639879000 0
 138/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/core/lib/requests/PackageRequest.js1697116567914744800 0
 154/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/csso/node_modules/css-tree/cjs/syntax/node/UnicodeRange.cjs1696769793734808200 0
-109/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/dist/index.db23566c.css.map1697116794243030400 0
+109/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/dist/index.db23566c.css.map1698069911586011800 0
 126/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/utils/src/getRootDir.js1697116551847550400 0
 179/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/optimizer-svgo/node_modules/css-select/lib/pseudo-selectors/filters.d.ts.map1696769772117507000 0
 123/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/nth-check/lib/esm/parse.d.ts1696769773237258200 0
@@ -2234,8 +2238,18 @@
 146/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@babel/highlight/node_modules/color-name/.npmignore1696769759289511000 0
 148/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/css-select/node_modules/domutils/lib/esm/traversal.js1696769771272729300 0
 151/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/LICENSE1696769759167147400 0
+143/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/core/src/requests/ParcelConfigRequest.js1697116568727352400 0
+150/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@babel/code-frame/node_modules/ansi-styles/package.json1696769759132221400 0
+132/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@swc/core-linux-x64-musl/package.json1697116550950479800 0
+113/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/graph/test1697116559919044300 1
 113/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/diagnostic1697116556549918800 1
-104/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/dist/index.193744e8.js1697116794227038700 0
+104/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/dist/index.193744e8.js1698069911764471000 0
+128/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/config-default/index.json1697116557283956400 0
+151/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/package-manager/test/fixtures/empty/package.json1697116563396904000 0
+119/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/glob-parent/CHANGELOG.md1697116766432240200 0
+92/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/.gitignore1698067575621948300 0
+121/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/react-refresh/package.json1696769766300544900 0
+137/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@swc/helpers/src/_wrap_async_generator.mjs1697116576928270600 0
 121/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@swc/helpers/cjs/index.cjs1697116552193335700 0
 125/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/config-default/LICENSE1697116556703210500 0
 148/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@swc/helpers/src/_object_without_properties_loose.mjs1697116576146542500 0
@@ -2258,6 +2272,11 @@
 136/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@babel/code-frame/node_modules/color-name1696769760882046900 1
 151/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/utils/test/input/sourcemap/referenced-min.js.map1697116567638084400 0
 121/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@lezer/lr/dist/index.d.cts1697116557422028300 0
+137/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/core/src/requests/DevDepRequest.js1697116566073032600 0
+124/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/css-select/lib/index.d.ts.map1696769782501987800 0
+128/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/lightningcss/node/targets.js.flow1696769767840986200 0
+139/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@swc/helpers/esm/_tagged_template_literal.js1697116559426346800 0
+163/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/lib/walker/index.js1696769791618299500 0
 128/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@swc/helpers/esm/_create_class.js1697116553488816000 0
 162/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/optimizer-htmlnano/node_modules/svgo/plugins/_transforms.js1696769766245870700 0
 137/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/caniuse-lite/data/features/css-any-link.js1697116561513584600 0
@@ -2302,7 +2321,6 @@
 157/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/optimizer-htmlnano/node_modules/mdn-data/l10n/css.json1696769769364892200 0
 175/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/optimizer-svgo/node_modules/css-select/lib/pseudo-selectors/aliases.d.ts1696769775786903400 0
 146/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/dom-serializer/node_modules/entities/lib/index.d.ts1696769771770016800 0
-114/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/images/image-product-desktop.jpg1696445962621048800 0
 138/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/core/test/fixtures/config/.parcelrc1697116559426346800 0
 135/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/csso/node_modules/css-tree/cjs/tokenizer1696769793785725600 1
 132/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/.bin/node-gyp-build-optional-packages1697116606856131700 0
@@ -2384,6 +2402,7 @@
 126/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/caniuse-lite/data/regions/CG.js1697116555310989400 0
 118/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/css-select/node_modules1696769745977893700 1
 134/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/css-tree/lib/lexer/generic-an-plus-b.js1696769798814362100 0
+114/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/images/image-product-desktop.jpg1696445962621048800 0
 130/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@swc/helpers/src/_object_spread.mjs1697116576143545400 0
 120/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/fs/lib/browser.js1697116554693509600 0
 138/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/css-tree/cjs/tokenizer/OffsetToLocation.cjs1696769790656926400 0
@@ -2391,17 +2410,11 @@
 117/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/fs/src/find.js1697116554941617900 0
 151/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/optimizer-svgo/node_modules/csso/lib/compress.js1696769774776024900 0
 113/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/boolbase/README.md1696769759200057600 0
-97/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/dist/index.html1697116794225056400 0
+97/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/dist/index.html1698069911452094500 0
 125/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/css-what/lib/commonjs/parse.js1696769762754228800 0
 129/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/graph/src/shared-buffer.js1697116561226662300 0
 137/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/css-select/lib/pseudo-selectors/aliases.js1696769762167740800 0
 147/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/optimizer-htmlnano/node_modules/mdn-data/api1696769771680555800 1
-92/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/.gitignore1696445962589801800 0
-121/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/react-refresh/package.json1696769766300544900 0
-137/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@swc/helpers/src/_wrap_async_generator.mjs1697116576928270600 0
-128/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/config-default/index.json1697116557283956400 0
-151/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/package-manager/test/fixtures/empty/package.json1697116563396904000 0
-119/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/glob-parent/CHANGELOG.md1697116766432240200 0
 119/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/cache/index.d.ts1697116559426346800 0
 112/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/js-yaml/README.md1696769780723220900 0
 139/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@msgpackr-extract/msgpackr-extract-linux-x641696769764694123200 1
@@ -2455,7 +2468,7 @@
 133/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/css-select/lib/esm/attributes.d.ts.map1696769777584603000 0
 126/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/caniuse-lite/data/regions/CY.js1697116568571450500 0
 122/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/bundler-default/lib1697116557114945100 1
-103/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/app/scss/_global.scss1697118024963125200 0
+103/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/app/scss/_global.scss1697122162021075100 0
 168/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/optimizer-htmlnano/node_modules/svgo/plugins/removeXMLProcInst.js1696769786453968300 0
 162/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/lib/utils/clone.js1696769774402621200 0
 140/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@babel/code-frame/node_modules/supports-color1696769759836292300 1
@@ -2470,8 +2483,8 @@
 161/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/optimizer-htmlnano/node_modules/svgo/plugins/reusePaths.js1696769786610799100 0
 152/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/csso/node_modules/css-tree/cjs/syntax/node/Identifier.cjs1696769785347729600 0
 90/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/app/scss1696771685035564300 1
-95/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/app/js/app.js1696445962605456300 0
-108/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/dist/index.193744e8.js.map1697116794410135400 0
+95/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/app/js/app.js1698067131922032700 0
+108/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/dist/index.193744e8.js.map1698069911780461400 0
 151/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/core/test/fixtures/invalid-distpath/package.json1697116572611949900 0
 164/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/optimizer-htmlnano/node_modules/svgo/plugins/convertColors.js1696769774101760000 0
 159/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/optimizer-svgo/node_modules/css-tree/lib/parser/index.js1696769790443558500 0
@@ -2510,15 +2523,6 @@
 123/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/domutils/lib/legacy.d.ts.map1696769767901394000 0
 130/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/transformer-babel/README.md1697116551891521500 0
 109/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/immutable/dist1697116767361202400 1
-143/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/core/src/requests/ParcelConfigRequest.js1697116568727352400 0
-150/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@babel/code-frame/node_modules/ansi-styles/package.json1696769759132221400 0
-132/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@swc/core-linux-x64-musl/package.json1697116550950479800 0
-113/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/graph/test1697116559919044300 1
-137/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/core/src/requests/DevDepRequest.js1697116566073032600 0
-124/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/css-select/lib/index.d.ts.map1696769782501987800 0
-128/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/lightningcss/node/targets.js.flow1696769767840986200 0
-139/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@swc/helpers/esm/_tagged_template_literal.js1697116559426346800 0
-163/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/lib/walker/index.js1696769791618299500 0
 127/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/core/test/Parcel.test.js1697116568578444200 0
 169/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/optimizer-svgo/node_modules/css-tree/lib/syntax/node/Percentage.js1696769794054783600 0
 126/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/core/lib/BundleGraph.js1697116564401462600 0
@@ -3222,7 +3226,7 @@
 128/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/utils/test/config.test.js1697116551625686500 0
 139/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/optimizer-svgo/node_modules/css-tree1697116600011079800 1
 144/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/optimizer-htmlnano/node_modules/csso/dist1696769780663308000 1
-81/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main1696770054953730600 1
+81/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main1698066455190690400 1
 143/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/optimizer-htmlnano/node_modules/csso/lib1696769784702499500 1
 159/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/optimizer-htmlnano/node_modules/csso/lib/clean/Atrule.js1696769767808035300 0
 121/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/color-convert/package.json1696769758952665700 0
@@ -3240,7 +3244,7 @@
 159/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/optimizer-svgo/node_modules/css-select/lib/attributes.js1696769761078704800 0
 155/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@swc/helpers/cjs/_class_static_private_field_destructure.cjs1697116551377570300 0
 158/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/optimizer-htmlnano/node_modules/csso/lib/clean/index.js1696769782773087300 0
-120/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/dist/image-product-mobile.48de0ebe.jpg1697116793934357000 0
+120/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/dist/image-product-mobile.48de0ebe.jpg1698069911891930200 0
 130/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/transformer-js/package.json1697116551200171100 0
 135/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@swc/helpers/_/_ts_decorate/package.json1697116572974884700 0
 148/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@babel/code-frame/node_modules/chalk/types/index.d.ts1696769764266221300 0
@@ -3339,7 +3343,6 @@
 134/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/node-resolver-core/lib/index.js1697116555696771000 0
 144/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/optimizer-htmlnano/node_modules/svgo/dist1696769786912306100 1
 122/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/css-select/lib/types.js.map1696769785011617700 0
-156/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/optimizer-htmlnano/node_modules/svgo/lib/css-tools.js1696769777816890300 0
 147/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/caniuse-lite/data/features/contentsecuritypolicy2.js1697116559919044300 0
 144/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@babel/helper-validator-identifier/lib/keyword.js1696769764167358500 0
 126/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/utils/src/objectHash.js1697116561227662600 0
@@ -3401,6 +3404,8 @@
 160/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/optimizer-htmlnano/node_modules/css-select/lib/index.d.ts1696769776772065600 0
 118/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/escalade/dist/index.mjs1696769761546234500 0
 151/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/CHANGES1697116551012991200 0
+153/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/COPYRIGHT1697116551026982600 0
+153/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/lib/utils1696769792439100600 1
 120/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/js-yaml/lib/type/pairs.js1696769777198344200 0
 181/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/optimizer-htmlnano/node_modules/svgo/plugins/removeNonInheritableGroupAttrs.js1696769784559570400 0
 140/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/core/src/public/MutableBundleGraph.js1697116567828686400 0
@@ -3562,8 +3567,6 @@
 167/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/optimizer-svgo/node_modules/css-tree/lib/syntax/config/parser.js1696769794038582000 0
 126/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/caniuse-lite/data/regions/GN.js1697116572031410100 0
 160/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/optimizer-svgo/node_modules/css-tree/lib/syntax/create.js1696769780678932600 0
-166/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/optimizer-svgo/node_modules/css-tree/lib/syntax/node/AnPlusB.js1696769762698682600 0
-129/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/css-tree/cjs/syntax/node/Block.cjs1696769768876448200 0
 142/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/css-select/node_modules/entities/lib/index.d.ts1696769786291282300 0
 141/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@swc/helpers/_/_class_extract_field_descriptor1697116565794052900 1
 154/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@swc/helpers/_/_class_extract_field_descriptor/package.json1697116565800266600 0
@@ -4345,7 +4348,7 @@
 151/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/caniuse-lite/data/features/same-site-cookie-attribute.js1697116580949566600 0
 119/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/css-tree/data/patch.json1696769803362836100 0
 137/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/caniuse-lite/data/features/script-defer.js1697116581062259800 0
-121/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/dist/image-product-desktop.77e14069.jpg1697116793934357000 0
+121/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/dist/image-product-desktop.77e14069.jpg1698069911851953000 0
 147/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/caniuse-lite/data/features/scrollintoviewifneeded.js1697116581103337900 0
 116/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/svgo/plugins/_path.js1696769762725089000 0
 133/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/core/src/public/BundleGraph.js1697116565494229700 0
@@ -4710,7 +4713,7 @@
 143/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/csso/node_modules/mdn-data/css/types.schema.json1696769781096322300 0
 113/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/chrome-trace-event1696769762229948300 1
 141/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/svgo/plugins/removeNonInheritableGroupAttrs.js1696769782580116600 0
-105/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/dist/index.db23566c.css1697116794225056400 0
+105/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/dist/index.db23566c.css1698069911544037700 0
 144/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/source-map/parcel_sourcemap_wasm/dist-web1696769799126434800 1
 124/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/chrome-trace-event/CHANGES.md1696769759872839600 0
 118/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/chrome-trace-event/dist1696769760366303700 1
@@ -4924,7 +4927,7 @@
 135/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/css-select/node_modules/domutils/lib/esm1696769783482589600 1
 146/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/css-select/node_modules/domutils/lib/esm/feeds.d.ts1696769781534033100 0
 144/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/css-select/node_modules/domutils/lib/esm/feeds.js1696769759813721000 0
-92/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/index.html1696775372123167100 0
+92/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/index.html1698067155058050000 0
 148/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/css-select/node_modules/domutils/lib/esm/helpers.d.ts1696769781666402900 0
 152/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/css-select/node_modules/domutils/lib/esm/helpers.d.ts.map1696769774449503400 0
 142/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/core/lib/requests/WriteBundleRequest.js1697116571978443900 0
@@ -5594,7 +5597,7 @@
 143/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/caniuse-lite/data/features/picture-in-picture.js1697116579374748200 0
 144/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/csso/node_modules/css-tree/lib/tokenizer/types.js1696769802730310900 0
 131/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/csso/node_modules/css-tree/lib/utils1696769802745936100 1
-86/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/dist1697116794414135000 1
+86/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/dist1698069911894925700 1
 118/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/js-yaml/lib/type/seq.js1696769777474770300 0
 134/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/caniuse-lite/data/features/es6-class.js1697116569819109000 0
 140/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/csso/node_modules/css-tree/lib/utils/clone.js1696769796732230400 0
@@ -5926,5 +5929,3 @@
 150/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/csso/node_modules/css-tree/cjs/syntax/config/parser.cjs1696769791604290900 0
 149/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/mtest_remap.c1697116553816371300 0
 150/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/sample-bdb.txt1697116566740237800 0
-153/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/lib/utils1696769792439100600 1
-153/mnt/c/Users/joaco/Documents/front-end-mentor/product-preview-card-component-main/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/COPYRIGHT1697116551026982600 0
