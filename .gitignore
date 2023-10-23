@@ -144,3 +144,8 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+#READMEs
+README-OG.md
+README-template.md
+style-guide.md
